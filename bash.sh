@@ -1,4 +1,4 @@
-sudo apt install openvpn python3 python3-pip wget -y
+sudo apt install openvpn python3 python3-pip -y
 sudo rm -rf /duco
 sudo mkdir /duco
 sudo cd /duco
