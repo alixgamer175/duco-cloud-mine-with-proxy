@@ -1,4 +1,4 @@
-# Pakages Install
+# Pakage Install
 ```
 sudo apt install wget -y
 ```
